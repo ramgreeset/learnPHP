@@ -1,2 +1,2 @@
-# phpWeb
-https://www.youtube.com/playlist?list=PLfWxkvC096mJzCJr7yQHCBM7IsM-pniPD
+1. ООП
+   свойства класса, методы класса, объект класса, this
